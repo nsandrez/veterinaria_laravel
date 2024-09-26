@@ -47,7 +47,7 @@
                 </nav>
 
                 <div class="flex items-center">
-                    <a href="/acceso" class="text-gray-600 hover:text-primary p-2 rounded-full">
+                    <a href="/iniciar-sesion" class="text-gray-600 hover:text-primary p-2 rounded-full">
                         <span class="sr-only">Iniciar sesión</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
