@@ -23,7 +23,7 @@
         <h1 class="text-4xl font-bold text-gray-800 mt-4">No Autenticado</h1>
         <p class="mt-2 text-gray-500 max-w-md mx-auto">Lo sentimos, pero debes iniciar sesión para acceder a esta
             página.</p>
-        <a href="/acesso"
+        <a href="/iniciar-sesion"
             class="mt-6 inline-block px-6 py-3 bg-black text-white rounded-full hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-600">
             Iniciar sesión
         </a>
